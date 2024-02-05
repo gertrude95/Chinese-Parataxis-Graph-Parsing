@@ -122,8 +122,19 @@
 ## 3.评价标准与模态
 ### (1)评价标准
 本任务采用F1值作为模型表现的评价标准，其计算方式如下：
-$$
-P = \frac{count(Matching\ Tuples)}{count(Generated\ Tuples)} \\
-R = \frac{count(Matching\ Tuples)}{count(Gold\ Tuples)} \\
-F = \frac{2*P*R}{P+R}
-$$
+<img width="890" alt="image" src="https://github.com/gertrude95/Chinese-Parataxis-Graph-Parsing/assets/136043716/1796abee-c2bf-4cf9-ab06-0df50d20830a">
+
+***Generated Tuples***：模型预测的三元组集合数
+
+***Gold Tuples***：测试集/盲测集的三元组集合数
+
+***Matching Tuples***：模型预测的三元组集合与测试集/盲测集的三元组集合间的最大匹配个数
+
+### (2)模态
+本次评测任务为开放测试，预训练语言模型可自由选择，允许使用外部资源，如大语言模型、专名识别、句法分析结果等。开放测试中，参赛队使用的所有资源需要在最终提交的技术报告中给予详细说明。但不可使用人工修正自动解析结果的方式。
+
+
+## 组织者和联系人
+评测组织者：荀恩东、饶高琦（北京语言大学）
+
+任务联系人：郭梦溪（北京语言大学硕士生，guo_mengxi@foxmail.com）
