@@ -1,5 +1,5 @@
 # Chinese-Parataxis-Graph-Parsing
-
+[点击跳到链接一](#_link_1st)
 ## 1.评测内容
 ### (1) 意合图介绍
 
@@ -143,3 +143,7 @@
 评测组织者：荀恩东、饶高琦（北京语言大学）
 
 任务联系人：郭梦溪（北京语言大学硕士生，guo_mengxi@foxmail.com）、李梦（北京语言大学博士生）
+
+
+
+<h4 id=_link_1st>链接一</h4>（[回到触发点](#_link_click_group)）
