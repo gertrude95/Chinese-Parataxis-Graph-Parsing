@@ -1,4 +1,4 @@
-# Chinese-Parataxis-Graph-Parsing 2023
+# Chinese-Parataxis-Graph-Parsing 2024
 # 中文意合图语义解析评测任务
 ## 组织者和联系人
 组织者：荀恩东（北京语言大学）；饶高琦（北京语言大学）
