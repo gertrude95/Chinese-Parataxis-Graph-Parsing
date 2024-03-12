@@ -148,5 +148,7 @@
 后续具体评测赛程请关注该网站或与联系人联系确认。
 
 有意报名者可扫描二维码填写团队信息及联系方式，任务联系人将及时与您取得联系。
-<img src="./code.png" alt="图6：意合图评测报名二维码" style="zoom:20%;" />
+![意合图评测报名二维码](https://github.com/gertrude95/Chinese-Parataxis-Graph-Parsing/assets/136043716/d35092f0-d19b-47fa-b66e-10df5764f7c2)
+
+
 
