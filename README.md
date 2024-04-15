@@ -55,7 +55,7 @@
 | 实体属性 | EntityRel（此次评测不细分实体属性，且领属关系与整分关系也暂与实体属性作统一标注） |
 | 关系事件 | 时序关系、递进关系、转折关系、因果关系、条件关系、目的关系、And、Or、Ref（即同指关系） |
 | 特殊标签 | Comp，NER，插入语，Merge，离合，重叠，QS，Is             |
-| 形式标记 | PN，CompPN，Conj，FW，TM，PF，SF |
+| 形式标记 | PN，CompPN，Conj，FW，TM，PF，SF, X |
 
 <!-- file1.md -->
 [详细内容请参考《体系及标签定义》](体系及标签定义.md)
